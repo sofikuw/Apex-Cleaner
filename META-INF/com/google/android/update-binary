@@ -1,0 +1,21 @@
+#!/sbin/sh
+
+#################
+# Initialization
+#################
+
+umask 022
+
+# echo before ui_print flushes incomplete lines
+SKIPUNZIP=1
+
+# Extract module files into $MODPATH
+unzip -o "$ZIPFILE" 'module.prop' -d "$MODPATH" >&2
+unzip -o "$ZIPFILE" 'post-fs-data.sh' -d "$MODPATH" >&2
+unzip -o "$ZIPFILE" 'service.sh' -d "$MODPATH" >&2
+unzip -o "$ZIPFILE" 'customize.sh' -d "$MODPATH" >&2
+
+# Run customize.sh if present
+if [ -f "$MODPATH/customize.sh" ]; then
+  . "$MODPATH/customize.sh"
+fi

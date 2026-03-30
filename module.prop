@@ -1,0 +1,7 @@
+id=apex_cleaner
+name=APEX Active Cleaner
+version=v1
+versionCode=10
+author=sofikuw
+description=Detects and removes corrupted /data/apex/active entries at early boot. Bootloop detection: auto-wipes /data/apex/active after 3 failed boots without touching other modules. Logs to /data/local/tmp/apex_cleaner.log
+minKernelSU=11998
