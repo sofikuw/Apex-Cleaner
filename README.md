@@ -25,7 +25,7 @@ Tested on **Samsung Galaxy S9+** and **S10+** running custom ROMs based on the S
 | Magisk (stable / delta / alpha) | ✅ Yes |
 | APatch | ✅ Yes |
 
-**Android version:** Android 13 and above (tested on Android 14 / One UI 7)
+**Android version:** Android 13 and above (tested on Android 15 / One UI 7)
 
 **Architecture:** Any (the module is pure shell script — no native binaries)
 
@@ -65,7 +65,7 @@ If the counter reaches **3** (meaning 3 consecutive boots that never completed),
 
 ## Installation
 
-1. Download the latest `.zip` from [Releases](../../releases)
+1. Download the latest `.zip` from [Releases](https://github.com/sofikuw/Apex-Cleaner/releases)
 2. Open your root manager (KernelSU Next / Magisk / APatch)
 3. Go to **Modules → Install from storage**
 4. Select the downloaded zip
