@@ -1,7 +1,7 @@
-PEAKISM PROPRIETARY LICENSE
+PEAKIZM PROPRIETARY LICENSE
 Version 1.0 — 18 November 2026
 
-Copyright (c) 2026 Peakism.
+Copyright (c) 2026 Peakizm.
 All rights reserved.
 
 This license covers the software, source code, documentation, designs, marks
@@ -10,35 +10,35 @@ component states otherwise.
 
 1. OWNERSHIP
 
-   Peakism owns the Work and every intellectual property right in it. No
+   Peakizm owns the Work and every intellectual property right in it. No
    right is granted except the limited permission in section 2.
 
 2. LIMITED PERMISSION TO VIEW AND EVALUATE
 
    You may read, clone and run the Work privately, and you may propose
-   changes to Peakism. You may not:
+   changes to Peakizm. You may not:
 
    a. copy, publish, distribute, sublicense or sell the Work or any part of it;
    b. modify the Work or create derivative works, other than changes you
-      submit to Peakism and Peakism accepts;
+      submit to Peakizm and Peakizm accepts;
    c. use the Work, in whole or in part, in any product, service or
       deployment, whether commercial or not;
    d. remove or alter this license or any copyright, attribution or
       proprietary notice.
 
-   Any use beyond this section requires Peakism's prior written permission.
+   Any use beyond this section requires Peakizm's prior written permission.
 
 3. CONTRIBUTIONS
 
-   By submitting a contribution you grant Peakism a perpetual, worldwide,
+   By submitting a contribution you grant Peakizm a perpetual, worldwide,
    royalty-free, irrevocable license to use, modify, distribute and
    sublicense that contribution on any terms. You confirm that you hold the
-   rights needed to grant it. Unless Peakism agrees otherwise in writing,
+   rights needed to grant it. Unless Peakizm agrees otherwise in writing,
    contributions become part of the Work under this license.
 
 4. MARKS
 
-   "Peakism" and the ∧ mark are trademarks of Peakism. This license grants
+   "Peakizm" and the ∧ mark are trademarks of Peakizm. This license grants
    no right to use them.
 
 5. THIRD-PARTY MATERIAL
@@ -52,7 +52,7 @@ component states otherwise.
    THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-   PEAKISM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+   PEAKIZM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
    OUT OF OR IN CONNECTION WITH THE WORK OR ITS USE.
 
 7. TERMINATION
@@ -65,4 +65,4 @@ component states otherwise.
    Requests for any use not permitted here: 84sofik@gmail.com
 
    SPDX does not recognise a custom license; identify this Work as
-   "LicenseRef-Peakism-1.0".
+   "LicenseRef-Peakizm-1.0".
