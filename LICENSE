@@ -1,0 +1,68 @@
+PEAKISM PROPRIETARY LICENSE
+Version 1.0 — 18 November 2026
+
+Copyright (c) 2026 Peakism.
+All rights reserved.
+
+This license covers the software, source code, documentation, designs, marks
+and other materials distributed with it (the "Work"), except where a file or
+component states otherwise.
+
+1. OWNERSHIP
+
+   Peakism owns the Work and every intellectual property right in it. No
+   right is granted except the limited permission in section 2.
+
+2. LIMITED PERMISSION TO VIEW AND EVALUATE
+
+   You may read, clone and run the Work privately, and you may propose
+   changes to Peakism. You may not:
+
+   a. copy, publish, distribute, sublicense or sell the Work or any part of it;
+   b. modify the Work or create derivative works, other than changes you
+      submit to Peakism and Peakism accepts;
+   c. use the Work, in whole or in part, in any product, service or
+      deployment, whether commercial or not;
+   d. remove or alter this license or any copyright, attribution or
+      proprietary notice.
+
+   Any use beyond this section requires Peakism's prior written permission.
+
+3. CONTRIBUTIONS
+
+   By submitting a contribution you grant Peakism a perpetual, worldwide,
+   royalty-free, irrevocable license to use, modify, distribute and
+   sublicense that contribution on any terms. You confirm that you hold the
+   rights needed to grant it. Unless Peakism agrees otherwise in writing,
+   contributions become part of the Work under this license.
+
+4. MARKS
+
+   "Peakism" and the ∧ mark are trademarks of Peakism. This license grants
+   no right to use them.
+
+5. THIRD-PARTY MATERIAL
+
+   Libraries, fonts, forks and other components that carry their own license
+   keep that license and are not relicensed by this document. Where the Work
+   includes such material, those terms prevail for that material.
+
+6. NO WARRANTY
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   PEAKISM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE WORK OR ITS USE.
+
+7. TERMINATION
+
+   Any breach of this license ends your permission to use the Work
+   immediately. Sections 1, 3, 4, 5, 6 and 8 survive termination.
+
+8. PERMISSIONS AND CONTACT
+
+   Requests for any use not permitted here: 84sofik@gmail.com
+
+   SPDX does not recognise a custom license; identify this Work as
+   "LicenseRef-Peakism-1.0".
